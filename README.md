@@ -1,3 +1,5 @@
+hosted on https://kurtdami.github.io/markdown-cv/
+
 markdown-cv
 ===========
 
