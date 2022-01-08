@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Yanxi Chen's Resume
+title: Kurt Mi's Resume
 ---
-# Yanxi Chen
+# Kurt Mi
 A self-motivated and skilled developer pursuing a M.Sc in Computing Science.
 
 <div id="webaddress">
