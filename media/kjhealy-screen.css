@@ -3,8 +3,7 @@
    License: none (public domain)
 */
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+html, body, div, span, applet, object, iframe, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -23,6 +22,16 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
+h1 {
+	margin-bottom: 3px;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
@@ -32,7 +41,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	list-style: inside;
 }
 blockquote, q {
 	quotes: none;
@@ -92,18 +101,18 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-li:before {
+/* li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}
+} */
 
-li {
+/* li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
-}
+} */
 
 li ul {
 	position: relative;
@@ -124,6 +133,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 33%;
+	margin-bottom: 0.5em
 }
 
 h1+p { 
