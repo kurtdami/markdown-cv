@@ -30,7 +30,7 @@ Financial Statement Analysis, Data Gathering
 
 `May 2016 - Current`
 TC Energy, *Project Engineer*, Calgary, Canada
-- Supported engineering design and implementation for site construction activities at pipeline facilities
+__Supported engineering design and implementation for site construction activities at pipeline facilities__
 
 *Coastal GasLink LNG Project*
 - Utilized advanced Excel functions to conduct project-wide industry standard gap analysis due to design code changes
