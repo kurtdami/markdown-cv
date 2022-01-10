@@ -3,7 +3,9 @@ layout: cv
 title: Kurt Mi's Resume
 ---
 # Kurt Mi
-A crypto enthusiast with strong academic background and extensive work experience in engineering.
+A crypto enthusiast with strong academic background and extensive work experience in engineering;
+An early user of blochchain technology (DeFi & Cefi) who spends 80% of his free time experimenting with protocols and staking apps.
+CFA Level 1 Candidate
 
 <div id="webaddress">
 <a href="bluecitybythetree@gmail.com">bluecitybythetree@gmail.com</a>
@@ -21,15 +23,16 @@ Graducated with Business Certicate
 SQL, Python, Excel, C
 
 `Finance Expertise`
-Financial Statement Analysis, Data Gathering, Early user of blochchain technology (DeFi & Cefi)
+Financial Statement Analysis, Data Gathering
+
 
 ## Work Experience
 
 `May 2016 - Current`
 TC Energy, *Project Engineer*, Calgary, Canada
 *Coastal GasLink LNG Project*
-- Utilized advanced Excel functions to conduct project-wide gap analysis on pipe strength value variance due to design code change
-- Audited pneumatic testing safety levels using potential energy modeling in accordance with Technical Safety BC regulation and design code
+- Utilized advanced Excel functions to conduct project-wide variance analysis due to design code changes
+- Audited engineering safety levels using potential energy modeling in accordance with Technical Safety BC regulation
 
 *Canada Gas NGTL 2020 & Preliminary 2022 Compressor Station Unit Addition Projects*
 - Innovated lifecycle value process using excel tool to conduct unit selection comparison for various compressor models
@@ -42,14 +45,11 @@ TC Energy, *Project Engineer*, Calgary, Canada
 
 ### Projects
 
-`Python`
-__SilverFr__, A web-based automatic spoken French evaluation tool.
-- Selected by Bank of Canada as a finalist in the PIVOT Program
-- Uses audio signal processing and deep learning to evaluate speech fluency and content
+`Google Project Ara`
+__Marketing Plan__, an extensive market analysis using customer behaviourial and demographic data for Google Ara Project 
 
 `Python`
 __Realsense Viewer__, A 3D Point Cloud Data Visualization for Intel® RealSense™ Camera, built with Python and VTK.
-
 
 
 <!-- ### Footer
