@@ -4,6 +4,7 @@ title: Kurt Mi's Resume
 ---
 # Kurt Mi
 <br>
+<br>
 - A crypto enthusiast with strong academic background and extensive work experience in engineering;
 - An early user of blochchain technology (DeFi & Cefi) who spends 80% of his free time experimenting with protocols and staking apps;
 - CFA Level 1 Candidate
@@ -30,9 +31,9 @@ Financial Statement Analysis, Data Gathering
 ## Work Experience
 
 `May 2016 - Current`
-TC Energy, *Project Engineer*, Calgary, Canada
+__TC Energy, *Project Engineer*, Calgary, Canada__
 <br>
-__Supported engineering design and implementation for site construction activities at pipeline facilities__
+*Supported engineering design and implementation for site construction activities at pipeline facilities*
 
 *Coastal GasLink LNG Project*
 - Utilized advanced Excel functions to conduct project-wide industry standard gap analysis due to design code changes
