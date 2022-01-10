@@ -48,8 +48,8 @@ TC Energy, *Project Engineer*, Calgary, Canada
 `Google Project Ara`
 __Marketing Plan__, an extensive market analysis using customer behaviourial and demographic data for Google Ara Project 
 
-`Python`
-__Realsense Viewer__, A 3D Point Cloud Data Visualization for Intel® RealSense™ Camera, built with Python and VTK.
+`Microrover`
+__Arduino Programming__, a rover motor control system designed and developed in C
 
 
 <!-- ### Footer
