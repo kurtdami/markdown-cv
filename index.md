@@ -21,7 +21,7 @@ Graducated with Business Certicate
 SQL, Python, Excel, C
 
 `Finance Expertise`
-Financial Statement Analysis, Data Gathering
+Financial Statement Analysis, Data Gathering, Early user of blochchain technology (DeFi & Cefi)
 
 ## Work Experience
 
