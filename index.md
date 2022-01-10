@@ -4,7 +4,6 @@ title: Kurt Mi's Resume
 ---
 # Kurt Mi
 <br>
-<br>
 - A crypto enthusiast with strong academic background and extensive work experience in engineering;
 - An early user of blochchain technology (DeFi & Cefi) who spends 80% of his free time experimenting with protocols and staking apps;
 - CFA Level 1 Candidate
