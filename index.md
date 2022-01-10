@@ -3,7 +3,7 @@ layout: cv
 title: Kurt Mi's Resume
 ---
 # Kurt Mi
-A self-motivated and skilled developer pursuing a M.Sc in Computing Science.
+A crypto enthusiast with strong academic background and work experience in engineering.
 
 <div id="webaddress">
 <a href="yanxi.yc@gmail.com">yanxi.yc@gmail.com</a>
