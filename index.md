@@ -30,6 +30,8 @@ Financial Statement Analysis, Data Gathering
 
 `May 2016 - Current`
 TC Energy, *Project Engineer*, Calgary, Canada
+Supported engineering design and implementation for site construction activities at pipeline facilities
+
 *Coastal GasLink LNG Project*
 - Utilized advanced Excel functions to conduct project-wide variance analysis due to design code changes
 - Audited engineering safety levels using potential energy modeling in accordance with Technical Safety BC regulation
@@ -40,7 +42,7 @@ TC Energy, *Project Engineer*, Calgary, Canada
 
 *Canada Gas Lodgepole Compressor Station Unit Addition Project*
 - Supported field engineering processes during interfacing with EPC to approve cost-effective solutions for design shortfalls
-- Created engineering standard variance write-up 
+- Created engineering standard variance write-up
 
 
 ### Projects
