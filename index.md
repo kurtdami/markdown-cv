@@ -30,19 +30,20 @@ Financial Statement Analysis, Data Gathering
 
 `May 2016 - Current`
 TC Energy, *Project Engineer*, Calgary, Canada
-Supported engineering design and implementation for site construction activities at pipeline facilities
+- Supported engineering design and implementation for site construction activities at pipeline facilities
 
 *Coastal GasLink LNG Project*
-- Utilized advanced Excel functions to conduct project-wide variance analysis due to design code changes
-- Audited engineering safety levels using potential energy modeling in accordance with Technical Safety BC regulation
+- Utilized advanced Excel functions to conduct project-wide industry standard gap analysis due to design code changes
+- Created internal engineering standard variance write-up
+
+*Groundbirch Compressor Project*
+- Audited engineering safety levels using potential energy modeling in accordance with government regulation
+- Developed process for automated engineering deficiency rectification using Excel spreadsheet
+- Collaborated with design contractors to produce cost-effective solutions for design shortfalls
 
 *Canada Gas NGTL 2020 & Preliminary 2022 Compressor Station Unit Addition Projects*
 - Innovated lifecycle value process using excel tool to conduct unit selection comparison for various compressor models
 - Worked in collaboration on the development and the engineering scope for unit addition projects 
-
-*Canada Gas Lodgepole Compressor Station Unit Addition Project*
-- Supported field engineering processes during interfacing with EPC to approve cost-effective solutions for design shortfalls
-- Created engineering standard variance write-up
 
 
 ### Projects
