@@ -28,7 +28,8 @@ Financial Statement Analysis, Data Gathering, Early user of blochchain technolog
 `May 2016 - Current`
 TC Energy, *Project Engineer*, Calgary, Canada
 *Coastal GasLink LNG Project*
-- 
+- Utilized advanced Excel functions to conduct project-wide gap analysis on pipe strength value variance due to design code change
+- Audited pneumatic testing safety levels using potential energy modeling in accordance with Technical Safety BC regulation and design code
 
 *Canada Gas NGTL 2020 & Preliminary 2022 Compressor Station Unit Addition Projects*
 - Innovated lifecycle value process using excel tool to conduct unit selection comparison for various compressor models
