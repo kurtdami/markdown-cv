@@ -30,6 +30,7 @@ Financial Statement Analysis, Data Gathering
 
 `May 2016 - Current`
 TC Energy, *Project Engineer*, Calgary, Canada
+
 __Supported engineering design and implementation for site construction activities at pipeline facilities__
 
 *Coastal GasLink LNG Project*
