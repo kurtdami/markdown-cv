@@ -28,7 +28,7 @@ Financial Statement Analysis, Data Gathering
 ## Work Experience
 
 `May 2016 - Current`
-__TC Energy, *Project Engineer*, Calgary, Canada__
+__TC Energy, Project Engineer, Calgary, Canada__
 <br>
 *Supported engineering design and implementation for site construction activities at pipeline facilities*
 
