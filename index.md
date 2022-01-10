@@ -6,31 +6,38 @@ title: Kurt Mi's Resume
 A crypto enthusiast with strong academic background and work experience in engineering.
 
 <div id="webaddress">
-<a href="yanxi.yc@gmail.com">yanxi.yc@gmail.com</a>
-| <a href="https://yanxichen.github.io/madebyyanxi/">My GitHub page</a>
+<a href="bluecitybythetree@gmail.com">bluecitybythetree@gmail.com</a>
 </div>
+
+## Education
+
+`Jun 2016`
+__Electrical and Computer Engineering__, *University of Toronto*, B. ASC.
+Graducated with Business Certicate
 
 ### Skills
 
-`Programming Languages`
-Java, Python, JavaScript, Ruby, MatLab, HTML, CSS, SQL
+`Technical proficiencies`
+SQL, Python, Excel, C
 
-`Frameworks and Tools`
-Git, React, Spring, Apache Thrift, Keras, OpenCV
+`Finance Expertise`
+Financial Statement Analysis, Data Gathering
 
-## Internship Experience
+## Work Experience
 
-`Sep - Current`
-Amazon, *Software Development Engineer Intern - Full Stack*, Vancouver, Canada
+`May 2016 - Current`
+TC Energy, *Project Engineer*, Calgary, Canada
+*Coastal GasLink LNG Project*
+- 
 
-*Tech Stack: Java, Spring, AWS Lambda, Ruby, Rails, JavaScript, React*
+*Canada Gas NGTL 2020 & Preliminary 2022 Compressor Station Unit Addition Projects*
+- Innovated lifecycle value process using excel tool to conduct unit selection comparison for various compressor models
+- Worked in collaboration on the development and the engineering scope for unit addition projects 
 
-`Jun - Aug 2019`
-Airbnb, *Software Engineer Intern - Full Stack*, San Francisco, USA
+*Canada Gas Lodgepole Compressor Station Unit Addition Project*
+- Supported field engineering processes during interfacing with EPC to approve cost-effective solutions for design shortfalls
+- Created engineering standard variance write-up 
 
-*Tech Stack: Java, Mockito, Ruby, Rails, GraphQL, TypeScript, React*
-- Implemented new map feature on Experiences product detail page that drove up user engagement and sales related metrics in experiment
-- Migrated backend logic and implemented various frontend entry points for Experiences Referrals program that resulted in positive experiment
 
 ### Projects
 
@@ -43,29 +50,9 @@ __SilverFr__, A web-based automatic spoken French evaluation tool.
 __Realsense Viewer__, A 3D Point Cloud Data Visualization for Intel® RealSense™ Camera, built with Python and VTK.
 
 
-## Education
-
-`Sep 2018 - Now`
-__Computing Science__, *University of Alberta*, M. Sc.
-Focus includes Machine Learning and AI, Image Processing, Computer Vision, and Network.
-
-`Sep 2009 - Jun 2013`
-__Accounting__, *University of Toronto*, B. Comm.
-Graduated with distinction.
-
-## Past Experience
-
-`Apr 2015 - Jun 2018`
-__Triovest Realty Advisors__, *Property Accountant*.
-Received employee recognition award for creating various workflow automation tools using Excel VBA that shortened report preparation time by 30%.
-
-`Nov 2013 - Apr 2015`
-__Sterling Karamar Property Management__, *Property Accountant*.
-
-
 
 <!-- ### Footer
 
-Last updated: Oct 2019 -->
+Last updated: Jan 2022 -->
 
 
