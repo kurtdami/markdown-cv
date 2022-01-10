@@ -32,7 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	list-style: inside;
 }
 blockquote, q {
 	quotes: none;
@@ -93,18 +93,18 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-li:before {
+/* li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}
+} */
 
-li {
+/* li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
-}
+} */
 
 li ul {
 	position: relative;
@@ -125,6 +125,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	padding-bottom: 25%;
 }
 
 h1+p {
