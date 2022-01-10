@@ -3,7 +3,7 @@ layout: cv
 title: Kurt Mi's Resume
 ---
 # Kurt Mi
-A crypto enthusiast with strong academic background and work experience in engineering.
+A crypto enthusiast with strong academic background and extensive work experience in engineering.
 
 <div id="webaddress">
 <a href="bluecitybythetree@gmail.com">bluecitybythetree@gmail.com</a>
